@@ -2,3 +2,6 @@ CASE
   WHEN "seating_ca" > 100 THEN 'Yes'
   ELSE 'No'
 END
+
+
+Url madhe http://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}
